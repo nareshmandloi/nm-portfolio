@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Naresh Mandloi",
+    "occupation": "Freelancer",
+    "description": "Frontend Developer.",
+    "image": "pf.png",
+    "bio": "3+ years of experience as a frontend developer, with a focus on building high-performing and user-friendly web applications. Proven ability to work effectively with designers, developers, and stakeholders to deliver projects on time.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "mandloinaresh@gmail.com",
+    "phone": "+91 9685898329 ",
+    "address": {
+      "street": "112 Krishna Avenue",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "zip": "452001"
+    },
+    "website": "http://www.incoders",
+    "resumedownload": "http://kv",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "These are some of my skills ",
+    "education": [
+      {
+        "school": "RGPV University Bhopal",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "January 2018",
+        "description": "Graduated with first Div"
+      }
+    ],
+    "work": [
+      {
+        "company": "Sunrays Technologoies",
+        "title": "Software developer (Intern)",
+        "years": "May 2019 - Feb 2020",
+        "description": "Learned multiple stacks like Java, ReactJs, Angular, Hibernate, MySql, etc."
+      },
+      {
+        "company": "Cargotmatrix",
+        "title": "Angular Developer",
+        "years": "Feb 2020 - Mar 2021",
+        "description": "Worked on Ionic bases logistics project for smoothing trade over glob"
+      },
+      {
+        "company": "Bytecode Agency",
+        "title": "Frontend Developer",
+        "years": "Apr 2021 - Present",
+        "description": "Worked on multiple frameworks and linbraries provided by JavaScript"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "90%"
+      },
+      {
+        "name": "Ngrx",
+        "level": "70%"
+      },
+      {
+        "name": "Rxjs",
+        "level": "80%"
+      },
+      {
+        "name": "Redux/Redux-Toolkit",
+        "level": "70%"
+      },
+      {
+        "name": "Bootstrap/Tailwind",
+        "level": "80%"
+      },
+      {
+        "name": "Angular-Material/MUI",
+        "level": "80%"
+      },
+      {
+        "name": "Ionic",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS & Firebase",
+        "image": "zoom.jpg",
+        "url": "https://clone-ce66b.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "robinhood.jpg",
+        "url": "https://facebook-clone-1a216.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Naresh got awesome skills...",
+        "user": "Friend"
+      },
+      {
+        "text": "That Naresh must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of in the Tech and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Friend... impersonator"
+      }
+    ]
+  }
+}
